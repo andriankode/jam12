@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jam WIB</title>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        background: transparent;
+        font-family: Arial, sans-serif;
+    }
+    #jam-digital {
+        font-size: 15px;
+        font-weight: bold;
+        background-color: none ;
+        color: #000;
+        padding: 4px 12px;
+        border-radius: 10px;
+        box-shadow: none;
+    }
+</style>
+</head>
+<body>
+    <div id="jam-digital"></div>
